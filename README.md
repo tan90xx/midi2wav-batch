@@ -9,3 +9,5 @@ Uses your Windows computer's built-in sound source - no additional software requ
 This tool requires a virtual audio driver to capture system audio output.  
 - Recommended: VB-Audio Virtual Cable 
 - Official Download: https://vb-audio.com/Cable/
+
+![vs_soundfont](vs_soundfont.png)
