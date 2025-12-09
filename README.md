@@ -16,7 +16,8 @@ This tool requires a virtual audio driver to capture system audio output.
 
 | Solution            | Platform       | Audio Quality      | Speed        | Setup       | Best For        |
 |---------------------|----------------|--------------------|--------------|-------------|-----------------|
-| midi2wav-batch      | 🪟        | Good (GM Synth)    | Slow-Medium       | Simple      | Quick conversions|
+| [DawDreamer](https://github.com/DBraun/DawDreamer)      | 🪟🍎🔳        | Excellent (VSTs)    | Fast       | Simple      | Quick conversions|
+| gmsynth_cvt      | 🪟        | Good (GM Synth)    | Slow-Medium       | Simple      | Quick conversions|
 | [ReaRender](https://github.com/YatingMusic/ReaRender)                                                        | 🍎🪟      | Excellent (VSTs)    | Medium         | Complex     | Professional work|
 | [RenderMan](https://github.com/ethman/slakh-generation?tab=readme-ov-file#step-1-setting-up-renderman-on-mac)| 🍎        | Excellent (VSTs)             | Medium         | Complex     | Professional work|
 | [FL Studio Export](https://www.youtube.com/watch?v=iAi0016kAL8)                                              | 🪟         | Excellent (VSTs)    | Medium         | Moderate    | Music production |
