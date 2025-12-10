@@ -10,14 +10,17 @@ This tool requires a virtual audio driver to capture system audio output.
 - Recommended: VB-Audio Virtual Cable 
 - Official Download: https://vb-audio.com/Cable/
 
-![vs_soundfont](vs_soundfont.png)
+Requirements
+
+-  [DawDreamer](https://github.com/DBraun/DawDreamer)
+-  pygame
 
 ### 📚 Additional Resources
 
 | Solution            | Platform       | Audio Quality      | Speed        | Setup       | Best For        |
 |---------------------|----------------|--------------------|--------------|-------------|-----------------|
-| [DawDreamer](https://github.com/DBraun/DawDreamer)      | 🪟🍎🔳        | Excellent (VSTs)    | Fast       | Simple      | Quick conversions|
-| gmsynth_cvt      | 🪟        | Good (GM Synth)    | Slow-Medium       | Simple      | Quick conversions|
+| [gmsynth_cvt.py](https://github.com/tan90xx/midi2wav-batch/blob/main/gmsynth_cvt.py)      | 🪟🍎🔳        | Excellent (VSTs)    | Fast       | Simple      | Quick conversions|
+| [kontakt_cvt.py](https://github.com/tan90xx/midi2wav-batch/blob/main/kontakt_cvt.py)     | 🪟        | Good (GM Synth)    | Slow-Medium       | Simple      | Quick conversions|
 | [ReaRender](https://github.com/YatingMusic/ReaRender)                                                        | 🍎🪟      | Excellent (VSTs)    | Medium         | Complex     | Professional work|
 | [RenderMan](https://github.com/ethman/slakh-generation?tab=readme-ov-file#step-1-setting-up-renderman-on-mac)| 🍎        | Excellent (VSTs)             | Medium         | Complex     | Professional work|
 | [FL Studio Export](https://www.youtube.com/watch?v=iAi0016kAL8)                                              | 🪟         | Excellent (VSTs)    | Medium         | Moderate    | Music production |
